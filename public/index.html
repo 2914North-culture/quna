@@ -3,9 +3,25 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum=1.0,maximum=1.0,user-scalable=no">
     <link rel="icon" href="<%= BASE_URL %>favicon.ico">
     <title><%= htmlWebpackPlugin.options.title %></title>
+    <script>
+      var sacle=1/ window.devicePixelRatio;
+      document.write('<meta name="viewport" content="width=device-width,initial-scale='+sacle+',maximum-scale='+sacle+',minimum-scale='+sacle+'">');
+
+      function currentFontSize(){
+        var html=document.getElementsByTagName('html')[0];
+        var oW=html.getBoundingClientRect().width;
+        // oW = oW > 1000 ? 100 : oW;
+        html.style.fontSize=oW/16+ 'px';
+      }
+      currentFontSize();
+      window.onresize=currentFontSize;
+    </script>
+    <!-- 腾讯位置服务 -->
+    <script charset="utf-8" src="https://map.qq.com/api/js?v=2.exp&key=XKZBZ-ZCC6S-H4IO5-65SPZ-VW5F3-FHFGF"></script>
+    <script src="https://3gimg.qq.com/lightmap/components/geolocation/geolocation.min.js"></script>
   </head>
   <body>
     <noscript>

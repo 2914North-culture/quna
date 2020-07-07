@@ -1,0 +1,1349 @@
+{
+  "ret": true,
+  "data": [
+    {
+      "id": "0001",
+      "sightName": "上海海昌海洋公园",
+      "bannerImg": "http://img1.qunarzz.com/sight/p0/2005/82/8253605ce47e06eba3.water.jpg_600x330_dd0e3a16.jpg",
+      "gallaryImgs": [
+        "http://img1.qunarzz.com/sight/p0/2005/82/8253605ce47e06eba3.water.jpg_350x240_099a061b.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/7d/7d9779fadf1a9750a3.water.jpg_350x240_56476ef5.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/ff/ffaed78773f50caca3.water.jpg_350x240_85d40d1a.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/e1/e1e31c615176bcc7a3.water.jpg_350x240_2b2fccbf.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/4a/4ab302ec2ed93639a3.water.jpg_350x240_e0d19598.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/84/84cc98b473f25c35a3.water.jpg_350x240_38046e92.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/d6/d6b67cc3a04b2ddea3.water.jpg_350x240_645e5bb7.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/1a/1a73174efc3a75a9a3.water.jpg_350x240_7cf31e91.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/a5/a5896a4942659278a3.water.jpg_350x240_e88814df.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/2c/2cca70b6d8753dd7a3.water.jpg_350x240_c6c088a6.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/5b/5bd30e76057915a3.water.jpg_350x240_426962ac.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/42/4290c4894f35cfcaa3.water.jpg_350x240_0ce7ec53.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/c9/c963645871537994a3.water.jpg_350x240_b1cb4d61.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/3b/3bf3639a508fcfd5a3.water.jpg_350x240_8a28b48a.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/67/6736762432a2df7aa3.water.jpg_350x240_4eb08f60.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/e3/e3ac02c680b051b4a3.water.jpg_350x240_8afe6111.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/c6/c66ff268d57c6d2aa3.water.jpg_350x240_7d4ccf52.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/59/5945202d7b125a63a3.water.jpg_350x240_1180c646.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/d2/d2af36474d42da1ea3.water.jpg_350x240_79ce2945.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/8b/8bcf443a62316e8ca3.water.jpg_350x240_4f4629ba.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/1e/1e6e75caa2fe4a61a3.water.jpg_350x240_2e03515c.jpg",
+        "http://img1.qunarzz.com/sight/p0/2003/f6/f63eb5e3d84c93d5a3.water.jpg_350x240_ca98127d.jpg"
+      ],
+      "categoryList": [
+        {
+          "title": "去哪儿推荐",
+          "children": [
+            {
+              "ticket-title": "北京慕田峪长城门票+往返摆渡车票(08:30~12:30)",
+              "ticket-light": "11:00前随买随用",
+              "ticket-label": [
+                "随时退"
+              ],
+              "ticket-price": "59.2",
+              "reserve-desc": 1
+            },
+            {
+              "ticket-title": "【刷码入园  无需换票】慕田峪长城学生票+往返摆渡车+明信片",
+              "ticket-light": "15:30前可订今日",
+              "ticket-label": [
+                "无需换票",
+                "条件退"
+              ],
+              "ticket-price": "39.8",
+              "reserve-desc": 1
+            },
+            {
+              "ticket-title": "北京慕田峪1日游|懒人游|晚出发|赠送摆渡车|中英双语讲解",
+              "ticket-light": "23:30前可订明日",
+              "ticket-label": [
+                "条件退",
+                "无购物",
+                "已售50"
+              ],
+              "ticket-price": "76",
+              "reserve-desc": 0
+            }
+          ]
+        },
+        [
+          {
+            "title": "景区门票",
+            "children": [
+              {
+                "desc": "慕田峪长城门票",
+                "advice": [
+                  "建议游玩时长约半天至一天",
+                  "优待政策"
+                ],
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "59.2"
+                  },
+                  {
+                    "ticket-type": "学生票",
+                    "ticket-price": "39.8"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "门票+交通",
+            "children": [
+              {
+                "desc": "门票+往返摆渡车",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "59.2"
+                  },
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "59.1"
+                  },
+                  {
+                    "ticket-type": "学生票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "学生票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "老人票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "老人票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "老人票",
+                    "ticket-time": "随买随用",
+                    "ticket-price": "40"
+                  }
+                ]
+              },
+              {
+                "desc": "慕田峪长城门票+往返摆渡车+往返缆车票门票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "169.5"
+                  },
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "173"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "交通票",
+            "children": [
+              {
+                "desc": "箱式缆车往返票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "120"
+                  },
+                  {
+                    "ticket-type": "儿童票",
+                    "ticket-price": "60"
+                  }
+                ]
+              },
+              {
+                "desc": "箱式缆车单程票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  },
+                  {
+                    "ticket-type": "儿童票",
+                    "ticket-price": "50"
+                  }
+                ]
+              },
+              {
+                "desc": "施必得索道单程上行票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  }
+                ]
+              },
+              {
+                "desc": "施必得索道单程下行票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  }
+                ]
+              },
+              {
+                "desc": "施必得索道往返票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "120"
+                  }
+                ]
+              },
+              {
+                "desc": "慕田峪长城施必得（索道/滑道2选1）下行单程门票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "景点导览",
+            "children": [
+              {
+                "desc": "慕田峪长城导览服务",
+                "children": [
+                  {
+                    "ticket-type": "大小同价",
+                    "ticket-price": "0.5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "一日游",
+            "children": [
+              {
+                "ticket-type": "【北京出发】簋街+箭扣长城+慕田峪长城+中华梦石城1日游",
+                "ticket-price": "1"
+              },
+              {
+                "ticket-type": "【北京出发】慕田峪纯玩一日游（天天发团）",
+                "ticket-price": "76"
+              },
+              {
+                "ticket-type": "【北京出发】颐和园+慕田峪长城1日游",
+                "ticket-price": "280"
+              },
+              {
+                "ticket-type": "【北京出发】雍和宫+鸟巢+慕田峪长城+水立方1日游",
+                "ticket-price": "128"
+              },
+              {
+                "ticket-type": "【北京出发】鸟巢+慕田峪长城+水立方+慕田峪长城箱式索道1日游",
+                "ticket-price": "1"
+              },
+              {
+                "ticket-type": "【北京出发】红螺寺+慕田峪长城1日游",
+                "ticket-price": "96"
+              },
+              {
+                "ticket-type": "【北京出发】八达岭长城+奥林匹克公园+毛主席纪念堂+颐和园+天安门广场+明十三陵+清华大学+鸟巢+慕田峪长城+定陵+故宫+水立方+古北水镇+北京世界园艺博览会1日游",
+                "ticket-price": "198"
+              },
+              {
+                "ticket-type": "【北京出发】天安门广场+鸟巢+慕田峪长城+水立方1日游",
+                "ticket-price": "68"
+              },
+              {
+                "ticket-type": "【北京出发】八达岭长城+什刹海+世界公园+颐和园+天安门广场+前门大街+鸟巢+慕田峪长城+南锣鼓巷+故宫+古北水镇1日游",
+                "ticket-price": "238"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": "0002",
+      "sightName": "上海影视乐园(AAAA景区)",
+      "bannerImg": "http://img1.qunarzz.com/sight/p0/2005/96/96990a5589da215aa3.water.jpg_600x330_79437863.jpg",
+      "gallaryImgs": [
+        "http://img1.qunarzz.com/sight/p0/2005/96/96990a5589da215aa3.water.jpg_350x240_b21b1a5c.jpg",
+        "http://img1.qunarzz.com/sight/p0/2005/7f/7f1b4f893f583dc2a3.water.jpg_350x240_a50a6331.jpg",
+        "http://img1.qunarzz.com/sight/p0/2005/c3/c3c8567f6986ec26a3.water.jpg_350x240_f853defa.jpg",
+        "http://img1.qunarzz.com/sight/p0/2005/7f/7fd98f536417a5f5a3.water.jpg_350x240_c0a1c993.jpg",
+        "http://img1.qunarzz.com/sight/p0/2005/a3/a39fbaad1b35b588a3.water.jpg_350x240_83d066d7.jpg",
+        "http://img1.qunarzz.com/sight/p0/2005/99/990855b22b738ef6a3.water.jpg_350x240_b14a533f.jpg",
+        "http://img1.qunarzz.com/sight/p0/2005/b9/b9fd605edca7a642a3.water.jpg_350x240_69ffc073.jpg",
+        "http://img1.qunarzz.com/sight/p0/2005/88/884a2a2711555359a3.water.jpg_350x240_9613c14e.jpg",
+        "http://img1.qunarzz.com/sight/p0/1508/f5/0dab5b7fa401fd6bfd310cc0559c008b.water.jpg_350x240_1e9c6740.jpg",
+        "http://img1.qunarzz.com/sight/p0/1502/ba/ba5f873a22327e0f.water.jpg_350x240_9e6f8d4b.jpg",
+        "http://img1.qunarzz.com/tuan/team2/1507/72/70e254dd8755d8.jpg_350x240_2f38346a.jpg",
+        "http://img1.qunarzz.com/sight/p0/1502/97/97edf7dfc461996d.water.jpg_350x240_aae92284.jpg",
+        "http://img1.qunarzz.com/tuan/team2/1507/21/283cc39cf399c7.jpg_350x240_fd7a5b8d.jpg",
+        "http://img1.qunarzz.com/sight/p0/1508/bb/58230923b9daa8306b6e1bbe7b5ad682.water.jpg_350x240_c92f14dc.jpg",
+        "http://img1.qunarzz.com/tuan/team2/1507/c1/179dd911fc0558.jpg_350x240_42622f04.jpg",
+        "http://img1.qunarzz.com/sight/p0/1508/b7/4d8198f2c090c1b65b71b1f20ec7cf30.water.jpg_350x240_3bfce60c.jpg"
+      ],
+      "categoryList": [
+        {
+          "title": "去哪儿推荐",
+          "children": [
+            {
+              "ticket-title": "北京慕田峪长城门票+往返摆渡车票(08:30~12:30)",
+              "ticket-light": "11:00前随买随用",
+              "ticket-label": [
+                "随时退"
+              ],
+              "ticket-price": "59.2",
+              "reserve-desc": 1
+            },
+            {
+              "ticket-title": "【刷码入园  无需换票】慕田峪长城学生票+往返摆渡车+明信片",
+              "ticket-light": "15:30前可订今日",
+              "ticket-label": [
+                "无需换票",
+                "条件退"
+              ],
+              "ticket-price": "39.8",
+              "reserve-desc": 1
+            },
+            {
+              "ticket-title": "北京慕田峪1日游|懒人游|晚出发|赠送摆渡车|中英双语讲解",
+              "ticket-light": "23:30前可订明日",
+              "ticket-label": [
+                "条件退",
+                "无购物",
+                "已售50"
+              ],
+              "ticket-price": "76",
+              "reserve-desc": 0
+            }
+          ]
+        },
+        [
+          {
+            "title": "景区门票",
+            "children": [
+              {
+                "desc": "慕田峪长城门票",
+                "advice": [
+                  "建议游玩时长约半天至一天",
+                  "优待政策"
+                ],
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "59.2"
+                  },
+                  {
+                    "ticket-type": "学生票",
+                    "ticket-price": "39.8"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "门票+交通",
+            "children": [
+              {
+                "desc": "门票+往返摆渡车",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "59.2"
+                  },
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "59.1"
+                  },
+                  {
+                    "ticket-type": "学生票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "学生票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "老人票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "老人票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "老人票",
+                    "ticket-time": "随买随用",
+                    "ticket-price": "40"
+                  }
+                ]
+              },
+              {
+                "desc": "慕田峪长城门票+往返摆渡车+往返缆车票门票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "169.5"
+                  },
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "173"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "交通票",
+            "children": [
+              {
+                "desc": "箱式缆车往返票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "120"
+                  },
+                  {
+                    "ticket-type": "儿童票",
+                    "ticket-price": "60"
+                  }
+                ]
+              },
+              {
+                "desc": "箱式缆车单程票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  },
+                  {
+                    "ticket-type": "儿童票",
+                    "ticket-price": "50"
+                  }
+                ]
+              },
+              {
+                "desc": "施必得索道单程上行票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  }
+                ]
+              },
+              {
+                "desc": "施必得索道单程下行票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  }
+                ]
+              },
+              {
+                "desc": "施必得索道往返票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "120"
+                  }
+                ]
+              },
+              {
+                "desc": "慕田峪长城施必得（索道/滑道2选1）下行单程门票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "景点导览",
+            "children": [
+              {
+                "desc": "慕田峪长城导览服务",
+                "children": [
+                  {
+                    "ticket-type": "大小同价",
+                    "ticket-price": "0.5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "一日游",
+            "children": [
+              {
+                "ticket-type": "【北京出发】簋街+箭扣长城+慕田峪长城+中华梦石城1日游",
+                "ticket-price": "1"
+              },
+              {
+                "ticket-type": "【北京出发】慕田峪纯玩一日游（天天发团）",
+                "ticket-price": "76"
+              },
+              {
+                "ticket-type": "【北京出发】颐和园+慕田峪长城1日游",
+                "ticket-price": "280"
+              },
+              {
+                "ticket-type": "【北京出发】雍和宫+鸟巢+慕田峪长城+水立方1日游",
+                "ticket-price": "128"
+              },
+              {
+                "ticket-type": "【北京出发】鸟巢+慕田峪长城+水立方+慕田峪长城箱式索道1日游",
+                "ticket-price": "1"
+              },
+              {
+                "ticket-type": "【北京出发】红螺寺+慕田峪长城1日游",
+                "ticket-price": "96"
+              },
+              {
+                "ticket-type": "【北京出发】八达岭长城+奥林匹克公园+毛主席纪念堂+颐和园+天安门广场+明十三陵+清华大学+鸟巢+慕田峪长城+定陵+故宫+水立方+古北水镇+北京世界园艺博览会1日游",
+                "ticket-price": "198"
+              },
+              {
+                "ticket-type": "【北京出发】天安门广场+鸟巢+慕田峪长城+水立方1日游",
+                "ticket-price": "68"
+              },
+              {
+                "ticket-type": "【北京出发】八达岭长城+什刹海+世界公园+颐和园+天安门广场+前门大街+鸟巢+慕田峪长城+南锣鼓巷+故宫+古北水镇1日游",
+                "ticket-price": "238"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": "0003",
+      "sightName": "慕田峪长城(AAAAA景区)",
+      "bannerImg": "http://img1.qunarzz.com/sight/p0/2005/5b/5b413402d60a1e26a3.water.jpg_600x330_5bea453e.jpg",
+      "gallaryImgs": [
+        "http://img1.qunarzz.com/sight/p0/2005/5b/5b413402d60a1e26a3.water.jpg_350x240_ce44df8a.jpg",
+        "http://img1.qunarzz.com/sight/p0/1905/66/6670789a9a4fb780a3.img.jpg_350x240_59ab274c.jpg",
+        "http://img1.qunarzz.com/sight/p0/1908/8a/8a26765782f9cf7a3.img.jpg_350x240_4605005e.jpg",
+        "http://img1.qunarzz.com/sight/p0/1908/1c/1c549e387d42b33da3.img.jpg_350x240_7640e1f3.jpg",
+        "http://img1.qunarzz.com/sight/p0/1908/9c/9c382d0b6a687c36a3.img.jpg_350x240_d332546d.jpg",
+        "http://img1.qunarzz.com/sight/p0/1908/7c/7cb443603a6e26d6a3.img.jpg_350x240_79e4861a.jpg",
+        "http://img1.qunarzz.com/sight/p0/1801/e0/e02e9ad8d7623aeba3.img.jpg_350x240_a089d660.jpg",
+        "http://img1.qunarzz.com/sight/p0/1801/ed/ed8c3515eb68f3ffa3.img.jpg_350x240_840a47e2.jpg",
+        "http://img1.qunarzz.com/sight/p0/1801/37/379e075e61d4bf2fa3.img.jpg_350x240_2542c631.jpg",
+        "http://img1.qunarzz.com/sight/p0/1708/38/3881d8773e5de818a3.img.jpg_350x240_7bde40b9.jpg",
+        "http://img1.qunarzz.com/sight/p0/1708/2b/2b6378fd3b2e1d86a3.img.jpg_350x240_9bcdeea7.jpg",
+        "http://img1.qunarzz.com/sight/p0/201403/04/f23f7d5c5be1d3f19b6a4f0098f728ab.jpg_350x240_826ad621.jpg",
+        "http://img1.qunarzz.com/sight/p0/1708/3b/3bc78d4f7554b2d2a3.img.jpg_350x240_646b7742.jpg",
+        "http://img1.qunarzz.com/wugc/p85/201306/24/2d76c88b3263ef0393835fbb.jpg_350x240_62a6b610.jpg",
+        "http://img1.qunarzz.com/sight/p0/1708/4b/4bf6b563db81d805a3.img.jpg_350x240_2f4fe040.jpg",
+        "http://img1.qunarzz.com/sight/p0/1708/8f/8f914b8259b12bfda3.img.jpg_350x240_d906dec3.jpg",
+        "http://img1.qunarzz.com/sight/p0/1708/d6/d6aeadc70e3e0f1ea3.img.jpg_350x240_e2182fcf.jpg",
+        "http://img1.qunarzz.com/sight/p0/1708/5e/5e6357d0479c6933a3.img.jpg_350x240_de6d34b9.jpg",
+        "http://img1.qunarzz.com/sight/p0/1708/e0/e0e13285f5b1a27ba3.img.jpg_350x240_e26b6363.jpg"
+      ],
+      "categoryList": [
+        {
+          "title": "去哪儿推荐",
+          "children": [
+            {
+              "ticket-title": "北京慕田峪长城门票+往返摆渡车票(08:30~12:30)",
+              "ticket-light": "11:00前随买随用",
+              "ticket-label": [
+                "随时退"
+              ],
+              "ticket-price": "59.2",
+              "reserve-desc": 1
+            },
+            {
+              "ticket-title": "【刷码入园  无需换票】慕田峪长城学生票+往返摆渡车+明信片",
+              "ticket-light": "15:30前可订今日",
+              "ticket-label": [
+                "无需换票",
+                "条件退"
+              ],
+              "ticket-price": "39.8",
+              "reserve-desc": 1
+            },
+            {
+              "ticket-title": "北京慕田峪1日游|懒人游|晚出发|赠送摆渡车|中英双语讲解",
+              "ticket-light": "23:30前可订明日",
+              "ticket-label": [
+                "条件退",
+                "无购物",
+                "已售50"
+              ],
+              "ticket-price": "76",
+              "reserve-desc": 0
+            }
+          ]
+        },
+        [
+          {
+            "title": "景区门票",
+            "children": [
+              {
+                "desc": "慕田峪长城门票",
+                "advice": [
+                  "建议游玩时长约半天至一天",
+                  "优待政策"
+                ],
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "59.2"
+                  },
+                  {
+                    "ticket-type": "学生票",
+                    "ticket-price": "39.8"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "门票+交通",
+            "children": [
+              {
+                "desc": "门票+往返摆渡车",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "59.2"
+                  },
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "59.1"
+                  },
+                  {
+                    "ticket-type": "学生票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "学生票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "老人票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "老人票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "老人票",
+                    "ticket-time": "随买随用",
+                    "ticket-price": "40"
+                  }
+                ]
+              },
+              {
+                "desc": "慕田峪长城门票+往返摆渡车+往返缆车票门票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "169.5"
+                  },
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "173"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "交通票",
+            "children": [
+              {
+                "desc": "箱式缆车往返票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "120"
+                  },
+                  {
+                    "ticket-type": "儿童票",
+                    "ticket-price": "60"
+                  }
+                ]
+              },
+              {
+                "desc": "箱式缆车单程票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  },
+                  {
+                    "ticket-type": "儿童票",
+                    "ticket-price": "50"
+                  }
+                ]
+              },
+              {
+                "desc": "施必得索道单程上行票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  }
+                ]
+              },
+              {
+                "desc": "施必得索道单程下行票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  }
+                ]
+              },
+              {
+                "desc": "施必得索道往返票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "120"
+                  }
+                ]
+              },
+              {
+                "desc": "慕田峪长城施必得（索道/滑道2选1）下行单程门票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "景点导览",
+            "children": [
+              {
+                "desc": "慕田峪长城导览服务",
+                "children": [
+                  {
+                    "ticket-type": "大小同价",
+                    "ticket-price": "0.5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "一日游",
+            "children": [
+              {
+                "ticket-type": "【北京出发】簋街+箭扣长城+慕田峪长城+中华梦石城1日游",
+                "ticket-price": "1"
+              },
+              {
+                "ticket-type": "【北京出发】慕田峪纯玩一日游（天天发团）",
+                "ticket-price": "76"
+              },
+              {
+                "ticket-type": "【北京出发】颐和园+慕田峪长城1日游",
+                "ticket-price": "280"
+              },
+              {
+                "ticket-type": "【北京出发】雍和宫+鸟巢+慕田峪长城+水立方1日游",
+                "ticket-price": "128"
+              },
+              {
+                "ticket-type": "【北京出发】鸟巢+慕田峪长城+水立方+慕田峪长城箱式索道1日游",
+                "ticket-price": "1"
+              },
+              {
+                "ticket-type": "【北京出发】红螺寺+慕田峪长城1日游",
+                "ticket-price": "96"
+              },
+              {
+                "ticket-type": "【北京出发】八达岭长城+奥林匹克公园+毛主席纪念堂+颐和园+天安门广场+明十三陵+清华大学+鸟巢+慕田峪长城+定陵+故宫+水立方+古北水镇+北京世界园艺博览会1日游",
+                "ticket-price": "198"
+              },
+              {
+                "ticket-type": "【北京出发】天安门广场+鸟巢+慕田峪长城+水立方1日游",
+                "ticket-price": "68"
+              },
+              {
+                "ticket-type": "【北京出发】八达岭长城+什刹海+世界公园+颐和园+天安门广场+前门大街+鸟巢+慕田峪长城+南锣鼓巷+故宫+古北水镇1日游",
+                "ticket-price": "238"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": "0004",
+      "sightName": "上海迪士尼乐园",
+      "bannerImg": "http://img1.qunarzz.com/sight/p0/1607/7c/7cda8b6782dabd80b4.img.jpg_600x330_8572a930.jpg",
+      "gallaryImgs": [
+        "http://img1.qunarzz.com/sight/p0/2005/a9/a9411416ff215fe2a3.water.jpg_350x240_52308a80.jpg",
+        "http://img1.qunarzz.com/sight/p0/2005/b3/b3ebcee8e4b9c39ba3.water.jpg_350x240_338e62b6.jpg",
+        "http://img1.qunarzz.com/sight/p0/1905/83/8383b8af85a9bb8ba3.img.jpg_350x240_ea34dfc9.jpg",
+        "http://img1.qunarzz.com/sight/p0/1905/3f/3f76721b9a43d89ba3.img.jpg_350x240_0cb74931.jpg",
+        "http://img1.qunarzz.com/sight/p0/1905/5c/5c04800994dab388a3.img.jpg_350x240_d80f0fb0.jpg",
+        "http://img1.qunarzz.com/sight/p0/1905/28/28622a6b07caa0faa3.img.jpg_350x240_68551c46.jpg",
+        "http://img1.qunarzz.com/sight/p0/1905/89/896379d8f6c705e6a3.img.jpg_350x240_2b0a8f4e.jpg",
+        "http://img1.qunarzz.com/sight/p0/1905/b8/b8dd7b465d3900bca3.img.jpg_350x240_9e48c859.jpg",
+        "http://img1.qunarzz.com/sight/p0/1905/78/78080bf04f51a1b9a3.img.jpg_350x240_426b5a98.jpg",
+        "http://img1.qunarzz.com/sight/p0/1905/62/627f0f4d89195e61a3.img.jpg_350x240_c5c0d1be.jpg",
+        "http://img1.qunarzz.com/sight/p0/1905/37/37d8d7c0e8033ba3a3.img.jpg_350x240_bf50ef0e.jpg",
+        "http://img1.qunarzz.com/sight/p0/1905/48/48ab8be6f72168fca3.img.jpg_350x240_015dae53.jpg",
+        "http://img1.qunarzz.com/sight/p0/1906/3d/3d61f18973a5ab7a3.img.jpg_350x240_5d546503.jpg",
+        "http://img1.qunarzz.com/sight/p0/1906/de/de426d5aaf95f96a3.img.jpg_350x240_53614218.jpg",
+        "http://img1.qunarzz.com/sight/p0/1906/90/905a3ed132facfe7a3.img.jpg_350x240_94bc0306.jpg",
+        "http://img1.qunarzz.com/sight/p0/1906/e9/e9b903f81b992acca3.img.jpg_350x240_9bc09a1b.jpg",
+        "http://img1.qunarzz.com/sight/p0/1907/6a/6aea0d396ffdb5aea3.img.jpg_350x240_28f13006.jpg",
+        "http://img1.qunarzz.com/sight/p0/1907/4b/4b3546a4bf2b1034a3.img.jpg_350x240_a598b5f8.jpg"
+      ],
+      "categoryList": [
+        {
+          "title": "去哪儿推荐",
+          "children": [
+            {
+              "ticket-title": "北京慕田峪长城门票+往返摆渡车票(08:30~12:30)",
+              "ticket-light": "11:00前随买随用",
+              "ticket-label": [
+                "随时退"
+              ],
+              "ticket-price": "59.2",
+              "reserve-desc": 1
+            },
+            {
+              "ticket-title": "【刷码入园  无需换票】慕田峪长城学生票+往返摆渡车+明信片",
+              "ticket-light": "15:30前可订今日",
+              "ticket-label": [
+                "无需换票",
+                "条件退"
+              ],
+              "ticket-price": "39.8",
+              "reserve-desc": 1
+            },
+            {
+              "ticket-title": "北京慕田峪1日游|懒人游|晚出发|赠送摆渡车|中英双语讲解",
+              "ticket-light": "23:30前可订明日",
+              "ticket-label": [
+                "条件退",
+                "无购物",
+                "已售50"
+              ],
+              "ticket-price": "76",
+              "reserve-desc": 0
+            }
+          ]
+        },
+        [
+          {
+            "title": "景区门票",
+            "children": [
+              {
+                "desc": "慕田峪长城门票",
+                "advice": [
+                  "建议游玩时长约半天至一天",
+                  "优待政策"
+                ],
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "59.2"
+                  },
+                  {
+                    "ticket-type": "学生票",
+                    "ticket-price": "39.8"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "门票+交通",
+            "children": [
+              {
+                "desc": "门票+往返摆渡车",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "59.2"
+                  },
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "59.1"
+                  },
+                  {
+                    "ticket-type": "学生票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "学生票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "老人票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "老人票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "老人票",
+                    "ticket-time": "随买随用",
+                    "ticket-price": "40"
+                  }
+                ]
+              },
+              {
+                "desc": "慕田峪长城门票+往返摆渡车+往返缆车票门票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "169.5"
+                  },
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "173"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "交通票",
+            "children": [
+              {
+                "desc": "箱式缆车往返票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "120"
+                  },
+                  {
+                    "ticket-type": "儿童票",
+                    "ticket-price": "60"
+                  }
+                ]
+              },
+              {
+                "desc": "箱式缆车单程票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  },
+                  {
+                    "ticket-type": "儿童票",
+                    "ticket-price": "50"
+                  }
+                ]
+              },
+              {
+                "desc": "施必得索道单程上行票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  }
+                ]
+              },
+              {
+                "desc": "施必得索道单程下行票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  }
+                ]
+              },
+              {
+                "desc": "施必得索道往返票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "120"
+                  }
+                ]
+              },
+              {
+                "desc": "慕田峪长城施必得（索道/滑道2选1）下行单程门票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "景点导览",
+            "children": [
+              {
+                "desc": "慕田峪长城导览服务",
+                "children": [
+                  {
+                    "ticket-type": "大小同价",
+                    "ticket-price": "0.5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "一日游",
+            "children": [
+              {
+                "ticket-type": "【北京出发】簋街+箭扣长城+慕田峪长城+中华梦石城1日游",
+                "ticket-price": "1"
+              },
+              {
+                "ticket-type": "【北京出发】慕田峪纯玩一日游（天天发团）",
+                "ticket-price": "76"
+              },
+              {
+                "ticket-type": "【北京出发】颐和园+慕田峪长城1日游",
+                "ticket-price": "280"
+              },
+              {
+                "ticket-type": "【北京出发】雍和宫+鸟巢+慕田峪长城+水立方1日游",
+                "ticket-price": "128"
+              },
+              {
+                "ticket-type": "【北京出发】鸟巢+慕田峪长城+水立方+慕田峪长城箱式索道1日游",
+                "ticket-price": "1"
+              },
+              {
+                "ticket-type": "【北京出发】红螺寺+慕田峪长城1日游",
+                "ticket-price": "96"
+              },
+              {
+                "ticket-type": "【北京出发】八达岭长城+奥林匹克公园+毛主席纪念堂+颐和园+天安门广场+明十三陵+清华大学+鸟巢+慕田峪长城+定陵+故宫+水立方+古北水镇+北京世界园艺博览会1日游",
+                "ticket-price": "198"
+              },
+              {
+                "ticket-type": "【北京出发】天安门广场+鸟巢+慕田峪长城+水立方1日游",
+                "ticket-price": "68"
+              },
+              {
+                "ticket-type": "【北京出发】八达岭长城+什刹海+世界公园+颐和园+天安门广场+前门大街+鸟巢+慕田峪长城+南锣鼓巷+故宫+古北水镇1日游",
+                "ticket-price": "238"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "id": "0005",
+      "sightName": "安徒生童话乐园",
+      "bannerImg": "http://img1.qunarzz.com/sight/p0/2004/6b/6b4d84eaad3486aaa3.img.jpg_600x330_f061a291.jpg",
+      "gallaryImgs": [
+        "http://img1.qunarzz.com/sight/p0/2004/6b/6b4d84eaad3486aaa3.img.jpg_350x240_28ed77dc.jpg",
+        "http://img1.qunarzz.com/sight/p0/2004/e8/e87c3b3b754715eda3.img.jpg_350x240_7e6801fe.jpg",
+        "http://img1.qunarzz.com/sight/p0/2004/2b/2b54f656334050a4a3.img.jpg_350x240_f62b79d1.jpg",
+        "http://img1.qunarzz.com/sight/p0/2004/25/25d5b6afcef1bab3a3.img.jpg_350x240_b2b16b1d.jpg",
+        "http://img1.qunarzz.com/sight/p0/2004/db/dbb56a41cfe59498a3.img.jpg_350x240_c944dfb5.jpg",
+        "http://img1.qunarzz.com/sight/p0/2004/c6/c61fe202e8f17a76a3.img.jpg_350x240_15b5b4f5.jpg",
+        "http://img1.qunarzz.com/sight/p0/2004/28/283990607cd9a388a3.img.jpg_350x240_22fce15c.jpg",
+        "http://img1.qunarzz.com/sight/p0/2004/6d/6d81538fb13c8138a3.img.jpg_350x240_688b5f86.jpg",
+        "http://img1.qunarzz.com/sight/p0/2004/42/42bde6e758320e93a3.img.jpg_350x240_ddb6ea56.jpg",
+        "http://img1.qunarzz.com/sight/p0/1707/b8/b8aa95a361617662a3.water.jpg_350x240_d8ceb1d5.jpg",
+        "http://img1.qunarzz.com/sight/p0/2004/1f/1f6809d69f8668eaa3.img.jpg_350x240_8b8fc71c.jpg",
+        "http://img1.qunarzz.com/sight/p0/2004/ec/ec83ffa0df4b5482a3.img.jpg_350x240_6f5baf39.jpg",
+        "http://img1.qunarzz.com/sight/p0/2004/a8/a8ffce36c60d54e9a3.img.jpg_350x240_64e80540.jpg",
+        "http://img1.qunarzz.com/sight/p0/2004/94/944034988757922a3.img.jpg_350x240_761a19a5.jpg",
+        "http://img1.qunarzz.com/sight/p0/1707/e8/e87a3af9e89b3607a3.water.jpg_350x240_4a6f3978.jpg",
+        "http://img1.qunarzz.com/sight/p0/2004/6f/6f429e0913c17225a3.img.jpg_350x240_5729f21f.jpg",
+        "http://img1.qunarzz.com/sight/p0/2004/9a/9a05ca3ccb8337c4a3.img.jpg_350x240_10b397ad.jpg",
+        "http://img1.qunarzz.com/sight/p0/2004/28/2887fcd2d04c8f4a3.img.jpg_350x240_2115481f.jpg",
+        "http://img1.qunarzz.com/sight/p0/2004/8a/8ae826b6099f429a3.img.jpg_350x240_caddd3b1.jpg"
+      ],
+      "categoryList": [
+        {
+          "title": "去哪儿推荐",
+          "children": [
+            {
+              "ticket-title": "北京慕田峪长城门票+往返摆渡车票(08:30~12:30)",
+              "ticket-light": "11:00前随买随用",
+              "ticket-label": [
+                "随时退"
+              ],
+              "ticket-price": "59.2",
+              "reserve-desc": 1
+            },
+            {
+              "ticket-title": "【刷码入园  无需换票】慕田峪长城学生票+往返摆渡车+明信片",
+              "ticket-light": "15:30前可订今日",
+              "ticket-label": [
+                "无需换票",
+                "条件退"
+              ],
+              "ticket-price": "39.8",
+              "reserve-desc": 1
+            },
+            {
+              "ticket-title": "北京慕田峪1日游|懒人游|晚出发|赠送摆渡车|中英双语讲解",
+              "ticket-light": "23:30前可订明日",
+              "ticket-label": [
+                "条件退",
+                "无购物",
+                "已售50"
+              ],
+              "ticket-price": "76",
+              "reserve-desc": 0
+            }
+          ]
+        },
+        [
+          {
+            "title": "景区门票",
+            "children": [
+              {
+                "desc": "慕田峪长城门票",
+                "advice": [
+                  "建议游玩时长约半天至一天",
+                  "优待政策"
+                ],
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "59.2"
+                  },
+                  {
+                    "ticket-type": "学生票",
+                    "ticket-price": "39.8"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "门票+交通",
+            "children": [
+              {
+                "desc": "门票+往返摆渡车",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "59.2"
+                  },
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "59.1"
+                  },
+                  {
+                    "ticket-type": "学生票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "学生票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "老人票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "老人票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "39"
+                  },
+                  {
+                    "ticket-type": "老人票",
+                    "ticket-time": "随买随用",
+                    "ticket-price": "40"
+                  }
+                ]
+              },
+              {
+                "desc": "慕田峪长城门票+往返摆渡车+往返缆车票门票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "08:30-12:30",
+                    "ticket-price": "169.5"
+                  },
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-time": "12:30-16:30",
+                    "ticket-price": "173"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "交通票",
+            "children": [
+              {
+                "desc": "箱式缆车往返票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "120"
+                  },
+                  {
+                    "ticket-type": "儿童票",
+                    "ticket-price": "60"
+                  }
+                ]
+              },
+              {
+                "desc": "箱式缆车单程票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  },
+                  {
+                    "ticket-type": "儿童票",
+                    "ticket-price": "50"
+                  }
+                ]
+              },
+              {
+                "desc": "施必得索道单程上行票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  }
+                ]
+              },
+              {
+                "desc": "施必得索道单程下行票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  }
+                ]
+              },
+              {
+                "desc": "施必得索道往返票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "120"
+                  }
+                ]
+              },
+              {
+                "desc": "慕田峪长城施必得（索道/滑道2选1）下行单程门票",
+                "children": [
+                  {
+                    "ticket-type": "成人票",
+                    "ticket-price": "100"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "景点导览",
+            "children": [
+              {
+                "desc": "慕田峪长城导览服务",
+                "children": [
+                  {
+                    "ticket-type": "大小同价",
+                    "ticket-price": "0.5"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "一日游",
+            "children": [
+              {
+                "ticket-type": "【北京出发】簋街+箭扣长城+慕田峪长城+中华梦石城1日游",
+                "ticket-price": "1"
+              },
+              {
+                "ticket-type": "【北京出发】慕田峪纯玩一日游（天天发团）",
+                "ticket-price": "76"
+              },
+              {
+                "ticket-type": "【北京出发】颐和园+慕田峪长城1日游",
+                "ticket-price": "280"
+              },
+              {
+                "ticket-type": "【北京出发】雍和宫+鸟巢+慕田峪长城+水立方1日游",
+                "ticket-price": "128"
+              },
+              {
+                "ticket-type": "【北京出发】鸟巢+慕田峪长城+水立方+慕田峪长城箱式索道1日游",
+                "ticket-price": "1"
+              },
+              {
+                "ticket-type": "【北京出发】红螺寺+慕田峪长城1日游",
+                "ticket-price": "96"
+              },
+              {
+                "ticket-type": "【北京出发】八达岭长城+奥林匹克公园+毛主席纪念堂+颐和园+天安门广场+明十三陵+清华大学+鸟巢+慕田峪长城+定陵+故宫+水立方+古北水镇+北京世界园艺博览会1日游",
+                "ticket-price": "198"
+              },
+              {
+                "ticket-type": "【北京出发】天安门广场+鸟巢+慕田峪长城+水立方1日游",
+                "ticket-price": "68"
+              },
+              {
+                "ticket-type": "【北京出发】八达岭长城+什刹海+世界公园+颐和园+天安门广场+前门大街+鸟巢+慕田峪长城+南锣鼓巷+故宫+古北水镇1日游",
+                "ticket-price": "238"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
